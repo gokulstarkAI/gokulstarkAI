@@ -67,7 +67,7 @@ me.intro()
 ## Connect with me:
 <p align="left">
 
-<a href = "https://stark876gokul.wixsite.com/gokulportfolio"><img src="https://img.icons8.com/cotton/344/website--v1.png"/></a>
+<a href = "https://stark876gokul.wixsite.com/gokulportfolio"><img width=4% src="https://img.icons8.com/cotton/344/website--v1.png"/></a>
 <a href = "https://www.linkedin.com/in/gokul-stark/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GokulStarkAI"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gokul_stark_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
