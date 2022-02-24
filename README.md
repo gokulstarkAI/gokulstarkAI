@@ -13,8 +13,12 @@ class DataScientist:
         self.language_spoken = ["English"]
 
     def say_hi(self):
-        print("Thanks for dropping by, 
-        hope you find some of my work interesting...")
+        print("Thanks for dropping by, hope you find some of my work interesting...")
+    
+    def intro(self):
+        print("I'm a Data Science student")
+        print("2020 goals: Geting a Data Science internship")
+        print("Fun Fact: I ❤️ to listen to music while I code")
 
 
 me = DataScientist()
@@ -38,7 +42,7 @@ me.say_hi()
 
 <p align="center">
     <a href="https://github.com/gokulstarkAI/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulstarkAI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gokul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulstarkAI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -62,6 +66,7 @@ me.say_hi()
 ## Connect with me:
 <p align="left">
 
+    <a href = "https://stark876gokul.wixsite.com/gokulportfolio"><img src="https://img.icons8.com/cotton/344/website--v1.png"/></a>
 <a href = "https://www.linkedin.com/in/gokul-stark/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GokulStarkAI"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gokul_stark_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
