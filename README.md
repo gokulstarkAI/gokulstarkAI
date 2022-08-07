@@ -17,9 +17,7 @@ class DataScientist:
     
     def intro(self):
         print("I'm a Data Science student")
-        print("2022 goals: Geting a Data Science internship")
-        print("Fun Fact: I ❤️ to listen to music while I code")
-
+        print("Skill set: SQL, Python, Tableau, Excel")
 
 me = DataScientist()
 me.say_hi()
