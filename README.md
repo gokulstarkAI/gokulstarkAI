@@ -5,11 +5,11 @@
 # -*- coding: ..... -*-
 
 
-class DataScientist:
+class DataAnalyst:
 
     def __init__(self):
         self.name = "Gokul"
-        self.role = "Data scientist"
+        self.role = "Data Analyst"
         self.language_spoken = ["English"]
 
     def say_hi(self):
@@ -19,7 +19,7 @@ class DataScientist:
         print("I'm a Data Science student")
         print("Skill set: SQL, Python, Tableau, Excel")
 
-me = DataScientist()
+me = DataAnalyst()
 me.say_hi()
 me.intro()
 ```
